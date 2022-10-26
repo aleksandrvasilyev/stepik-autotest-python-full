@@ -1,0 +1,15 @@
+1666277786915	geckodriver	INFO	Listening on 127.0.0.1:61798
+1666277786924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dg/k5thggsd7w36nr1bz9wsbg_m0000gn/T/rust_mozprofilercfPrk"
+2022-10-20 17:56:27.343 plugin-container[57964:836116] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 17:56:27.343 plugin-container[57964:836116] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 17:56:27.346 plugin-container[57964:836116] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 17:56:27.346 plugin-container[57964:836116] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 17:56:27.346 plugin-container[57964:836114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 17:56:27.346 plugin-container[57964:836114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666277787354	Marionette	INFO	Marionette enabled
+1666277787385	Marionette	INFO	Listening on port 61807
+Read port: 61807
+1666277787716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dg/k5thggsd7w36nr1bz9wsbg_m0000gn/T/rust_mozprofilercfPrk/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1666277790683	Marionette	INFO	Stopped listening on port 61807
