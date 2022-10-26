@@ -1,0 +1,1 @@
+[Шпаргалка Selenium](https://github.com/aleksandrvasilyev/stepik-autotest-python/blob/main/notes.md)
